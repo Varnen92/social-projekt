@@ -9,8 +9,7 @@ Social Projekt is a full fledged social media website which lets you post the ar
 
 ### Link to Live Project
 
-https://ancient-beach-10024.herokuapp.com/
-
+https://social-projekt-07.herokuapp.com/
 
 ## Screenshots
 ![enter image description here](https://raw.githubusercontent.com/Serge2233/social-projekt/new-work/images/s1.PNG)
