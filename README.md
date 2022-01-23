@@ -9,7 +9,7 @@ Social Projekt is a full fledged social media website which lets you post the ar
 
 ### Link to Live Project
 
-
+https://ancient-beach-10024.herokuapp.com/
 
 
 ## Screenshots
@@ -48,6 +48,10 @@ Social Projekt is a full fledged social media website which lets you post the ar
 * nodemon
 
 * sequelize
+
+## Contribution
+
+Built by Robert Sandoval (https://github.com/Varnen92), Nadia (https://github.com/nadiaalamgir21), and Serge (https://github.com/Serge2233)
 
   
   
