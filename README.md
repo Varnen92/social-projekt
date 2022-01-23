@@ -4,7 +4,7 @@
 # Social Projekt
 
 ### Description
-Social Projekt is a full fledged social media website which lets you post the articles of your interests, it is equipped with capabilties of signin, signup, session management, commenting on the posts, and etc.
+Social Projekt is a full fledged social media website which lets you post the articles of your interests, it is equipped with capabilities of signin, signup, session management, and the ability to comment on posts
 
 
 ### Link to Live Project
@@ -44,8 +44,6 @@ https://ancient-beach-10024.herokuapp.com/
 * express-session
 
 * mysql2
-
-* nodemon
 
 * sequelize
 
